@@ -1,0 +1,9 @@
+Text Analytics for Beginners using NLTK (NLTK + matplotlib, pandas)
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+NumPy
+https://github.com/numpy/numpy
+https://www.w3schools.com/python/numpy/default.asp
+
+Gensim:
+https://webdevblog.ru/gensim-rukovodstvo-dlya-nachinajushhih/
